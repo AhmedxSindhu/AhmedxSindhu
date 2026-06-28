@@ -1,39 +1,48 @@
-# Hi, I am Muhammad Ahmed
+# Hi, I'm Muhammad Ahmed 👋
 
-### BS Computer Science Student | AI & Machine Learning 
-### Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad 
+### BS Computer Science Student | AI & Machine Learning Enthusiast
+### Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI%20%26%20Machine%20Learning%20Enthusiast;Machine%20Learning%20%7C%20Deep%20Learning%20Learner;Python%20Developer%20%7C%20Data%20Science%20Explorer;Building%20Real-World%20AI%20Projects&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Artificial%20Intelligence%20Enthusiast;Machine%20Learning%20%26%20Deep%20Learning%20Learner;Building%20Practical%20AI%20Projects;Continuously%20Learning%20and%20Growing&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
 </p>
 
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 BS Computer Science student at **Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
 - 🧠 Currently learning **Machine Learning & Deep Learning**
 - 📊 Interested in **Data Preprocessing, Machine Learning, Deep Learning & Time Series Forecasting**
-- 🚀 Actively seeking **AI/ML internship opportunities**
-- 📍 Islamabad, Pakistan
+- 🚀 Actively seeking **AI/ML Internship Opportunities**
+- 📍 Based in Islamabad, Pakistan
 
 ---
 
 # 💻 Tech Stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+
 </p>
 
-### Also Experienced With
+### Libraries & Tools
 
 - Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib
+
+### Areas of Interest
+
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Data Preprocessing
@@ -44,7 +53,7 @@
 
 ---
 
-# 🚀 AI & Machine Learning Projects
+# 🚀 Featured Projects
 
 ## 🏥 Healthcare Admission Forecasting
 
@@ -52,8 +61,8 @@
 
 - Built a patient admission forecasting system using historical healthcare records.
 - Performed complete data preprocessing including missing value imputation, duplicate removal, and outlier treatment.
-- Developed a seasonal SARIMA forecasting model for future patient admissions.
-- Evaluated model performance using residual analysis, statistical validation, and visualizations.
+- Developed a seasonal SARIMA forecasting model for predicting future patient admissions.
+- Evaluated model performance using residual analysis, statistical validation, and visualization techniques.
 
 ---
 
@@ -61,9 +70,9 @@
 
 **Tech Stack:** Python • Machine Learning • Statistical Modelling • Data Visualization • SARIMA
 
-- Developed a forecasting model to predict airline passenger demand using historical travel data.
-- Performed stationarity testing, ADF tests, ACF/PACF analysis, residual diagnostics, and Ljung-Box testing.
-- Built a reliable forecasting pipeline through model validation and statistical evaluation.
+- Built a forecasting model to predict airline passenger demand using historical travel data.
+- Performed stationarity testing, ADF tests, ACF/PACF analysis, residual diagnostics, and Ljung–Box testing.
+- Validated forecasting performance through statistical evaluation and visualization.
 
 ---
 
@@ -71,8 +80,8 @@
 
 **Tech Stack:** Python • NumPy • Linear Algebra
 
-- Built a menu-driven image processing application.
-- Implemented grayscale conversion, brightness & contrast adjustment, rotation, flipping, edge detection, and blurring.
+- Developed a menu-driven image processing application.
+- Implemented grayscale conversion, brightness adjustment, contrast enhancement, rotation, flipping, edge detection, and blurring.
 - Designed an image compression and decompression system using Linear Algebra concepts.
 
 ---
@@ -80,23 +89,18 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HassanAhmed6715&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAhmed6715&layout=compact&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AhmedxSindhu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedxSindhu&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAhmed6715&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=AhmedxSindhu&theme=tokyonight&hide_border=true"/>
+
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HassanAhmed6715&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-</p>
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
 
 ---
 
@@ -116,13 +120,15 @@
 - 🎓 Maintaining a **CGPA of 3.92 / 4.00** at PIEAS.
 - 🤖 Built multiple end-to-end AI & Machine Learning projects using real-world datasets.
 - 📊 Experienced in complete machine learning workflows including data preprocessing, visualization, model development, validation, and evaluation.
+- 🌱 Continuously expanding knowledge in Machine Learning and Deep Learning through projects and online courses.
 
 ---
 
 # 🤝 Connect with Me
 
 <p align="left">
-<a href="https://github.com/HassanAhmed6715">
+
+<a href="https://github.com/AhmedxSindhu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -131,8 +137,9 @@
 </a>
 
 <a href="mailto:ahmedsindhu6715@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
