@@ -1,7 +1,7 @@
 # Hi, I am Muhammad Ahmed
 
 ### BS Computer Science Student | AI & Machine Learning 
-### Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad | DSA Enthusiast
+### Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=AI%20%26%20Machine%20Learning%20Enthusiast;Machine%20Learning%20%7C%20Deep%20Learning%20Learner;Python%20Developer%20%7C%20Data%20Science%20Explorer;Building%20Real-World%20AI%20Projects&font=Fira%20Code&center=true&color=00F7FF&width=700&height=50"/>
